@@ -8,16 +8,14 @@
 
 --> The variables used in the Vivado HLS codes are of fixed-point type.
 
---> The .png file is a snapshot of the block diagram generated in Vivado IPI.
-
 --> The "helloworld_sdk" file is the C code used to generate the baremetal application in Vivado SDK (Software Development Kit).
 
 --> The "helloworld_arm" file is the C code for implementing the entire algorithm in the ARM processor itself using Vivado SDK.
 
 ## Block Diagram
 
-<img src="images/sl_bd.png" height="250" >
+<img src="images/sl_bd.png" height="600" >
 
 ## Terminal Output Snapshot
 
-<img src="images/sl_output.png" height="250" >
+<img src="images/sl_output.PNG" height="300" >
